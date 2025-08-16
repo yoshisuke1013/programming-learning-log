@@ -24,6 +24,7 @@
 
 - [Progate](https://prog-8.com)📕
   - [Node.js](https://prog-8.com/courses/nodejs) ✅
+  - [SQL](https://prog-8.com/courses/sql) ✅
 
 ## 🛠 技術スタック
 
@@ -33,4 +34,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 開発ツール
+### データベース
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
