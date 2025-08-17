@@ -20,6 +20,11 @@
 
 ## ✏️ 学習記録
 
+### 🗓️ 2025/08/17
+
+- [Progate Path](https://path.progate.com)📗
+  - [バックエンドコース](https://app.path.progate.com/courses/long-term/NyvtJmHlht12X_Sy4l57q) ⏳
+
 ### 🗓️ 2025/08/16
 
 - [Progate](https://prog-8.com)📕
