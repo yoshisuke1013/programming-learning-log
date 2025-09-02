@@ -17,23 +17,19 @@
 
 - [Progate](https://prog-8.com)📕
 - [Progate Path](https://path.progate.com)📗
+- [Udemy](https://www.udemy.com)📘
 
 ## ✏️ 学習記録
 
-### 🗓️ 2025/08/19
+### 🗓️ 2025/08/26 〜 2025/09/02
+
+- [Udemy](https://www.udemy.com)📘
+  - [React + Typescript で有名アプリ「Youtube」のクローンを作る](https://www.udemy.com/share/10dN0N3@tMln2W-5ctWbuaVkTjB4tzeTPVTw8PDfygnoHGmFXDY1FGx3SQxl_qYO4tcb9R0_ZA==/) ✅
+
+### 🗓️ 2025/08/17 〜 2025/08/25
 
 - [Progate Path](https://path.progate.com)📗
-  - [バックエンドコース](https://app.path.progate.com/courses/long-term/NyvtJmHlht12X_Sy4l57q) ⏳
-
-### 🗓️ 2025/08/18
-
-- [Progate Path](https://path.progate.com)📗
-  - [バックエンドコース](https://app.path.progate.com/courses/long-term/NyvtJmHlht12X_Sy4l57q) ⏳
-
-### 🗓️ 2025/08/17
-
-- [Progate Path](https://path.progate.com)📗
-  - [バックエンドコース](https://app.path.progate.com/courses/long-term/NyvtJmHlht12X_Sy4l57q) ⏳
+  - [バックエンドコース](https://app.path.progate.com/courses/long-term/NyvtJmHlht12X_Sy4l57q) ✅
 
 ### 🗓️ 2025/08/16
 
@@ -44,6 +40,12 @@
 ## 🛠 技術スタック
 
 ### フロントエンド
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### バックエンド
 
