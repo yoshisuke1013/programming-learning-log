@@ -21,10 +21,15 @@
 
 ## ✏️ 学習記録
 
+### 🗓️ 2025/09/03 〜 2025/09/10
+
+- [Udemy](https://www.udemy.com)📘
+  - [Node.js + Typescript で有名 TODO アプリ「Trello」のクローンを作る](https://www.udemy.com/course/nodejs-trello/) ✅
+
 ### 🗓️ 2025/08/26 〜 2025/09/02
 
 - [Udemy](https://www.udemy.com)📘
-  - [React + Typescript で有名アプリ「Youtube」のクローンを作る](https://www.udemy.com/share/10dN0N3@tMln2W-5ctWbuaVkTjB4tzeTPVTw8PDfygnoHGmFXDY1FGx3SQxl_qYO4tcb9R0_ZA==/) ✅
+  - [React + Typescript で有名アプリ「Youtube」のクローンを作る](https://www.udemy.com/course/react-typescript-youtube/) ✅
 
 ### 🗓️ 2025/08/17 〜 2025/08/25
 
@@ -50,6 +55,8 @@
 ### バックエンド
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### データベース
 
